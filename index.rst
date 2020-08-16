@@ -15,11 +15,20 @@ Subsection title..
 Просто текст то то сето
 
 
+
+
+
 Paragraph title..
 *****************
 
 
-
+.. code-block:: python
+   import telebot
+   from bs4 import BeautifulSoup
+    
+    x = 5
+    if x == 5:
+        print('hello')
 
 
 
@@ -32,3 +41,4 @@ Paragraph title..
 ==============
 О кванториуме
 ==============
+
