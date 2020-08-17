@@ -9,19 +9,18 @@
 sdfghj
 ^^^^^^^^^^^^^^^^^^^^^
 
-Subsection title..
+Заголовок простой
 ------------------
 
 Просто текст то то сето
 
 .. code-block:: python
-   :emphasize-lines: 1-3,5
-
-   def some_function():
+   def my_function():
        interesting = False
        print 'This line is highlighted.'
        print 'This one is not...'
        print '...but this one is.'
+
 
 
 
