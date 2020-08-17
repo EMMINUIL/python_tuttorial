@@ -25,7 +25,7 @@ sdfghj
 
 
 
-Paragraph title..
+Paragraph title.
 *****************
 
 
